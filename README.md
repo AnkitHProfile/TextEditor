@@ -18,4 +18,4 @@ Key Features:
 
 6. Dynamic Font Rendering: The text editor ensures crisp and clear font rendering for an optimal visual experience.
 
-To sum up, our Text Editor delivers a robust and user-centric solution, offering a refined editing experience without compromising simplicity, making it an essential tool for diverse editing tasks.
+To sum up, this Text Editor delivers a robust and user-centric solution, offering a refined editing experience without compromising simplicity, making it an essential tool for diverse editing tasks.
