@@ -70,7 +70,7 @@ TextEditor/
 
 ## 💡 About the Project
 
-This editor was developed to combine the **simplicity of a notepad** with **smart features** like search, undo, and character tracking — without the bloat of heavy IDEs or third-party tools.
+This editor was developed to combine the **simplicity of a notepad** with **smart features** like search, undo, and character tracking, without the bloat of heavy IDEs or third-party tools.
 
 It offers:
 - A productive platform for writers, coders, and note-takers
