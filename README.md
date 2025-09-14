@@ -85,4 +85,4 @@ It offers:
 
 ---
 
-> 💬 *“Simple, elegant, and efficient — a tool every user deserves.”*
+> 💬 *“Simple, elegant, and efficient, a tool every user deserves.”*
